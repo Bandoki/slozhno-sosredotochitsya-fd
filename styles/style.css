@@ -485,7 +485,7 @@
     grid-template-columns: 1fr;
 
   }
-  
+
   .header__theme-menu {
     justify-self: center;
     align-self: start;
@@ -529,6 +529,10 @@
   .hard-to-concentrate {
     grid-template-columns: 315px 1fr;
     gap: 20px;
+  }
+
+  .hard-to-concentrate .section_title {
+    padding-inline-start: 10px;
   }
   .section_title {
     min-inline-size: 315px;
