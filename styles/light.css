@@ -28,10 +28,16 @@
     --section-title-color: var(--text-color);
     --outline-color: rgb(53 52 48 / 40%);
     --border-color: var(--text-color);
+    --bg-color: #FFF1F7;
   }
 
   .theme-auto .decorative-element {
     display: none;
+  }
+
+  .theme-auto .page {
+    background-color: var(--bg-color);
+
   }
 
   .decorated-zone::before {
