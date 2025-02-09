@@ -13,7 +13,8 @@
   position: relative;
   margin-inline-start: auto;
   margin-inline-end: auto;
-  block-size: 100vh; 
+  block-size: 100vh;
+
 }
 
 .header {
@@ -135,7 +136,8 @@
 }
 
 .header__theme-menu-button_type_dark {
-  outline: 1px solid var(--accent-color); 
+  outline: 1px solid var(--accent-color);
+
 }
 
 .header__theme-menu-button_type_dark:focus-visible {
@@ -311,7 +313,8 @@
     max-inline-size: 768px;
     margin-inline-start: auto;
     margin-inline-end: auto;
-    block-size: 100vh; 
+    block-size: 100vh;
+
   }
 
   .header {
@@ -421,10 +424,6 @@
     margin: 0 10px 0 0;
   }
 
-  .gold-fish__content {
-    
-  }
-
   .gold-fish .subtitle {
     margin: 18px 10px 0 0;
   }
@@ -477,13 +476,16 @@
     max-inline-size: 1024px;
     margin-inline-start: auto;
     margin-inline-end: auto;
-    block-size: 100vh; 
+    block-size: 100vh;
+
   }
   .header {
     block-size: 100vh;
     min-block-size: 768px;
     grid-template-columns: 1fr;
+
   }
+  
   .header__theme-menu {
     justify-self: center;
     align-self: start;
