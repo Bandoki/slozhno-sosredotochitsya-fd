@@ -3,6 +3,7 @@
   --title-color: #DB00FF;
   --main-text: 'IBM Plex mono', sans-serif;
   --bg-image: url(../images/cover-image-dark.png);
+  --bg-color: #000028;
   --text-color: #F1B2CE;
   --subtitle-color: #000028;
   --section-title-color: var(--accent-color);
