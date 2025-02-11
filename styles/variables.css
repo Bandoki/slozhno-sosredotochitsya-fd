@@ -9,6 +9,8 @@
   --section-title-color: var(--accent-color);
   --outline-color: rgb(255 0 112 / 40%);
   --border-color: var(--accent-color);
+  --padding: 10px;
+  --button-color: var(--accent-color);
 }
 /*
   Переменные для вашего проекта
